@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Download Image</string>
+    <string name="btn_download_image">Download image</string>
+    <string name="image_url">Image URL</string>
+    <string name="enter_any_image_url">Enter any image URL</string>
+    <string name="success">Success!</string>
+    <string name="downloaded_image">Downloaded image</string>
+</resources>
